@@ -1,0 +1,121 @@
+név;év;célpont;legénység;sikeres;leírás;költség (mrd USD);hasznos teher (kg)
+Apollo 11;1969;Hold;3;Igen;Első emberes holdraszállás;25,4;4536
+Apollo 13;1970;Hold;3;Nem;Sikertelen holdmisszió, kényszer-visszatérés;4,4;4536
+Viking 1;1975;Mars;0;Igen;Első sikeres Mars leszállás és felszíni vizsgálat;1,0;572
+Voyager 1;1977;Csillagközi tér;0;Igen;Naprendszert elhagyó űrszonda, mélyűr kutatás;0,865;825
+STS-51-L Challenger;1986;Föld körüli pálya;7;Nem;Sikertelen űrrepülőgép-küldetés, kilövés utáni katasztrófa;1,2;24000
+Hubble Űrtávcső;1990;Föld körüli pálya;5;Igen;Űrtávcső telepítése és üzembe helyezése;4,7;11110
+Mars Pathfinder;1996;Mars;0;Igen;Első sikeres Mars rover küldetés;0,28;870
+ISS Expedíció 1;2000;Nemzetközi Űrállomás;3;Igen;Az ISS első hosszú távú legénysége;20;20000
+Spirit Rover;2003;Mars;0;Igen;Mars felszínének geológiai vizsgálata;0,4;185
+Opportunity Rover;2003;Mars;0;Igen;Hosszú élettartamú Mars rover küldetés;0,4;185
+Curiosity Rover;2012;Mars;0;Igen;Mars felszínének és éghajlatának vizsgálata;2,5;899
+Artemis I;2022;Hold;0;Igen;Ember nélküli tesztküldetés a Hold körül;30;26000
+James Webb Űrtávcső;2021;Lagrange-pont (L2);0;Igen;Infravörös űrtávcső a világegyetem korai szakaszának vizsgálatára;10;6200
+Psyche;2023;Aszteroida öv;0;Igen;Fémből álló aszteroida vizsgálata;0,985;2800
+Juno;2011;Jupiter;0;Igen;A Jupiter magnetoszférájának és atmoszférájának tanulmányozása;1,1;3625
+New Horizons;2006;Pluto és Kuiper-öv;0;Igen;Első űrszonda a Plutóhoz és a Kuiper-öv objektumaihoz;0,7;478
+Parker Solar Probe;2018;Nap;0;Igen;A Nap koronájának közvetlen vizsgálata;1,5;685
+Perseverance Rover;2020;Mars;0;Igen;Mars mintagyűjtés és élet nyomai utáni kutatás;2,7;1025
+Lucy;2021;Jupiter trójai aszteroidák;0;Igen;Az ősi aszteroidák vizsgálata a Naprendszer kialakulásának megértéséhez;0,98;1550
+DAVINCI+;2029;Vénusz;0;Tervezett;A Vénusz légkörének részletes elemzése;0,5;900
+Mariner 2;1962;Vénusz;0;Igen;Első sikeres bolygóközeli küldetés, adatokat gyűjtött a Vénuszról;0,08;202
+Surveyor 1;1966;Hold;0;Igen;Első sikeres amerikai holdi leszállás;0,47;995
+Apollo 12;1969;Hold;3;Igen;Második emberes holdraszállás, célzott leszállás a Surveyor 3 közelében;25,4;4536
+Apollo 17;1972;Hold;3;Igen;Az utolsó emberes holdmisszió, hosszabb felszíni kutatás;25,4;4536
+Pioneer 10;1972;Jupiter;0;Igen;Első szonda, amely elérte a Jupitert és elhagyta a Naprendszert;0,35;258
+Pioneer 11;1973;Jupiter, Szaturnusz;0;Igen;Első szonda, amely közel repült a Szaturnuszhoz;0,4;259
+Voyager 2;1977;Jupiter, Szaturnusz, Uránusz, Neptunusz;0;Igen;Egyedüli szonda, amely négy gázóriást vizsgált;0,865;825
+Magellan;1989;Vénusz;0;Igen;Vénusz radartérképezése;0,55;1035
+Galileo;1989;Jupiter;0;Igen;Első szonda, amely körpályára állt a Jupiter körül;1,6;2223
+Mars Climate Orbiter;1998;Mars;0;Nem;A Mars légkörének vizsgálata, de hibás számítás miatt elveszett;0,33;629
+Mars Polar Lander;1999;Mars;0;Nem;Sikertelen leszállási kísérlet a Mars déli sarkvidékén;0,17;583
+Genesis;2001;Naprendszer;0;Részben;A Nap szeléből mintákat gyűjtött, de visszatéréskor lezuhant;0,26;636
+Mars Reconnaissance Orbiter;2005;Mars;0;Igen;Nagyfelbontású képek készítése a Mars felszínéről;0,72;1031
+Dawn;2007;Aszteroida öv;0;Igen;Első szonda, amely keringett egy aszteroida (Vesta) és egy törpebolygó (Ceres) körül;0,47;1240
+Kepler Űrtávcső;2009;Exobolygók keresése;0;Igen;Több ezer exobolygó felfedezése a Tejútrendszerben;0,67;1039
+GRAIL;2011;Hold;0;Igen;A Hold gravitációs térképének elkészítése;0,5;307
+TESS;2018;Exobolygók keresése;0;Igen;Exobolygók keresése a közeli csillagok körül;0,2;362
+OSIRIS-REx;2016;Aszteroida Bennu;0;Igen;Aszteroida-mintagyűjtés és visszahozatal a Földre;0,8;2110
+Europa Clipper;2024;Jupiter holdja, Europa;0;Tervezett;Az Europa jeges felszínének és óceánjának vizsgálata;4,25;6000
+Dragonfly;2027;Titán (Szaturnusz holdja);0;Tervezett;Drónmisszió a Titán légkörében és felszínén;1,0;450
+Viking 1;1975;Mars;0;Igen;Első sikeres Mars leszállóegység;1,0;1006
+Viking 2;1975;Mars;0;Igen;Második sikeres Mars leszállóegység;1,0;1006
+Hubble Űrtávcső;1990;Föld körüli pálya;0;Igen;Űrtávcső, amely forradalmasította a csillagászatot;2,5;11110
+Mars Pathfinder;1996;Mars;0;Igen;Az első marsjárót szállította (Sojourner);0,28;264
+Spirit (MER-A);2003;Mars;0;Igen;Hosszú életű Mars-járó, 2004-2010 között működött;0,82;185
+Opportunity (MER-B);2003;Mars;0;Igen;Rekordot döntött a legtávolabb haladó marsjáróként (45 km);0,82;185
+New Horizons;2006;Plútó, Kuiper-öv;0;Igen;Az első szonda, amely meglátogatta a Plútót;0,7;478
+Juno;2011;Jupiter;0;Igen;Részletes adatok a Jupiter atmoszférájáról és mágneses teréről;1,1;3625
+Curiosity;2011;Mars;0;Igen;Nukleáris hajtású marsjáró, amely felfedezte, hogy a Mars valaha lakható lehetett;2,5;899
+Parker Solar Probe;2018;Nap;0;Igen;A Nap koronájának közvetlen vizsgálata;1,5;685
+Perseverance;2020;Mars;0;Igen;Mintagyűjtő marsjáró, a Jezero-kráter vizsgálata;2,7;1025
+Ingenuity;2021;Mars;0;Igen;Az első helikopter a Marson, demonstrációs küldetés;0,08;1,8
+Lunar Reconnaissance Orbiter;2009;Hold;0;Igen;Részletes holdfelszín-térképezés;0,5;1850
+Chandra X-ray Observatory;1999;Föld körüli pálya;0;Igen;Röntgencsillagászati műhold fekete lyukak vizsgálatára;1,65;4800
+James Webb Űrtávcső;2021;L2 Lagrange-pont;0;Igen;A világ legfejlettebb űrtávcsöve, az első galaxisok vizsgálata;10,0;6200
+Voyager 1;1977;Bolygóközi tér;0;Igen;A legtávolabb jutott ember által készített objektum;0,865;825
+ICESat-2;2018;Föld;0;Igen;A sarki jég vastagságának és változásának mérése;1,0;1400
+Landsat 9;2021;Föld;0;Igen;A Föld felszínének részletes megfigyelése;0,85;2780
+Artemis I;2022;Hold;0;Igen;Első tesztküldetés az Artemis programban, ember nélküli Orion kapszula;4,1;25000
+Artemis II;2024;Hold;4;Tervezett;Első emberes Hold-küldetés az Artemis programban;4,5;25000
+Surveyor 1;1966;Hold;0;Igen;Első amerikai űrszonda, amely sima leszállást hajtott végre a Holdon;0,47;995
+Surveyor 3;1967;Hold;0;Igen;Vizsgálta a Hold felszínének mechanikai tulajdonságait;0,47;995
+Apollo 7;1968;Föld körüli pálya;3;Igen;Az első emberes Apollo-küldetés;0,36;14600
+Apollo 8;1968;Hold;3;Igen;Az első emberes Hold körüli repülés;0,36;28000
+Apollo 11;1969;Hold;3;Igen;Az első emberes Holdra szállás;0,36;15000
+Apollo 13;1970;Hold;3;Részleges;Sikertelen holdra szállás, de a legénység épségben hazatért;0,36;15000
+Skylab;1973;Föld körüli pálya;3;Igen;Az első amerikai űrállomás;2,2;77000
+Viking 1;1975;Mars;0;Igen;Első sikeres Mars leszállóegység;1,0;1006
+Viking 2;1975;Mars;0;Igen;Második sikeres Mars leszállóegység;1,0;1006
+Voyager 2;1977;Bolygóközi tér;0;Igen;Elhaladt a Jupiter, Szaturnusz, Uránusz és Neptunusz mellett;0,865;825
+STS-1;1981;Föld körüli pálya;2;Igen;Az első űrrepülőgép küldetés, Columbia;0,45;24000
+Magellan;1989;Vénusz;0;Igen;A Vénusz felszínének radartérképezése;0,55;1035
+Galileo;1989;Jupiter;0;Igen;A Jupiter és holdjainak részletes vizsgálata;1,6;2223
+Mars Observer;1992;Mars;0;Nem;Kapcsolatvesztés röviddel a Mars elérése előtt;0,81;1018
+NEAR Shoemaker;1996;Eros (aszteroida);0;Igen;Az első űrszonda, amely leszállt egy aszteroidára;0,22;805
+Genesis;2001;Nap;0;Részleges;Napból származó részecskék gyűjtése, de visszatérő kapszula balesetet szenvedett;0,26;636
+Deep Impact;2005;Tempel 1 (üstökös);0;Igen;Becsapódó egység az üstökös belső szerkezetének vizsgálatára;0,33;650
+Dawn;2007;Vesta, Ceres (aszteroidák);0;Igen;Az első űrszonda, amely két égitest körül is pályára állt;0,47;1220
+Osiris-REx;2016;Bennu (aszteroida);0;Igen;Mintagyűjtés egy aszteroidáról és visszahozás a Földre;1,16;2110
+Artemis III;2025;Hold;4;Tervezett;Az első emberes Holdra szállás az Artemis programban;5,0;25000
+Pioneer 10;1972;Jupiter;0;Igen;Az első űrszonda, amely elhagyta a Naprendszert;0,35;258
+Pioneer 11;1973;Jupiter, Szaturnusz;0;Igen;Első űrszonda, amely elhaladt a Szaturnusz mellett;0,35;258
+Apollo-Soyuz Test Project;1975;Föld körüli pálya;5;Igen;Amerikai-szovjet közös űrrepülés;0,25;14000
+Hubble Space Telescope;1990;Föld körüli pálya;0;Igen;A világ egyik legjelentősebb űrteleszkópja;2,5;11110
+Mars Pathfinder;1996;Mars;0;Igen;Az első sikeres Mars-rover küldetés (Sojourner);0,28;264
+Cassini-Huygens;1997;Szaturnusz, Titan;0;Igen;A Szaturnusz és holdjainak vizsgálata;3,26;2150
+ISS Assembly Mission 1A/R;1998;Föld körüli pálya;6;Igen;Az első modul az ISS-hez (Zarya);0,25;19300
+Spirit Rover;2003;Mars;0;Igen;Egyik az iker Mars-járók közül;0,82;185
+Opportunity Rover;2003;Mars;0;Igen;Egyik az iker Mars-járók közül, rekorder hosszú működéssel;0,82;185
+New Horizons;2006;Pluto, Kuiper-öv;0;Igen;Az első űrszonda, amely elhaladt a Plútó mellett;0,7;478
+Kepler Space Telescope;2009;Bolygóközi tér;0;Igen;Exobolygók keresése a Tejútrendszerben;0,6;1039
+Juno;2011;Jupiter;0;Igen;A Jupiter magnetoszférájának és belső szerkezetének vizsgálata;1,1;3625
+Curiosity Rover;2011;Mars;0;Igen;Egy fejlett rover a Mars felszínének vizsgálatára;2,5;899
+James Webb Space Telescope;2021;Nap-Föld L2 pont;0;Igen;Az eddigi legfejlettebb űrteleszkóp;10,0;6200
+Perseverance Rover;2021;Mars;0;Igen;Mintagyűjtő Mars-rover, az Ingenuity helikopter kíséretében;2,7;1025
+DART;2021;Didymos (aszteroida);0;Igen;Kísérleti aszteroida-eltérítő küldetés;0,32;610
+Artemis I;2022;Hold;0;Igen;Ember nélküli tesztküldetés az Orion űrhajóval;4,1;25000
+VIPER;2024;Hold;0;Tervezett;Holdi jég és vízforrások keresése a déli pólusnál;0,67;430
+Europa Clipper;2024;Europa (Jupiter holdja);0;Tervezett;A Jupiter Europa holdjának vizsgálata;4,25;6000
+Artemis IV;2028;Hold;4;Tervezett;A Gateway űrállomás első moduljának szállítása;5,5;27000
+Gemini 4;1965;Föld körüli pálya;2;Igen;Az első amerikai űrséta (Ed White);0,41;3780
+Gemini 8;1966;Föld körüli pálya;2;Igen;Az első sikeres dokkolás két űrhajó között;0,41;3780
+Apollo 7;1968;Föld körüli pálya;3;Igen;Az első Apollo-küldetés emberrel a fedélzeten;0,64;14780
+Apollo 9;1969;Föld körüli pálya;3;Igen;Holdkomp tesztelése a Föld körüli pályán;0,66;14780
+Apollo 10;1969;Hold;3;Igen;Főpróba a holdraszállás előtt, 15 km-re a felszíntől;0,67;14780
+Apollo 12;1969;Hold;3;Igen;A második emberes holdraszállás;0,67;14780
+Apollo 14;1971;Hold;3;Igen;Alan Shepard golfütése a Holdon;0,69;14780
+Apollo 15;1971;Hold;3;Igen;Az első Holdjáró (Lunar Rover) használata;0,7;14780
+Apollo 16;1972;Hold;3;Igen;A Descartes-fennsík felfedezése a Holdon;0,72;14780
+Apollo 17;1972;Hold;3;Igen;Az utolsó emberes holdraszállás eddig;0,75;14780
+Skylab 2;1973;Föld körüli pálya;3;Igen;Az első amerikai űrállomás javítása;2,2;14800
+Skylab 3;1973;Föld körüli pálya;3;Igen;Több mint 59 napos tartózkodás az űrállomáson;2,2;14800
+Skylab 4;1973;Föld körüli pálya;3;Igen;Az addigi leghosszabb emberes űrmisszió (84 nap);2,2;14800
+STS-1;1981;Föld körüli pálya;2;Igen;Az első űrrepülőgép-küldetés (Columbia);0,45;24280
+STS-7;1983;Föld körüli pálya;5;Igen;Az első amerikai nő az űrben (Sally Ride);0,45;24280
+STS-41-B;1984;Föld körüli pálya;5;Igen;Az első önálló űrséta jetpackkel (MMU);0,45;24280
+STS-51-L;1986;Föld körüli pálya;7;Nem;A Challenger-katasztrófa, az űrrepülő felrobbant felszállás közben;0,45;24280
+STS-88;1998;Föld körüli pálya;6;Igen;Az ISS első amerikai moduljának csatlakoztatása;0,5;24280
+Artemis II;2025;Hold körüli pálya;4;Tervezett;Az első emberes Hold körüli repülés az Artemis-programban;4,1;25000
+Artemis III;2026;Hold;4;Tervezett;Az első emberes holdraszállás az Artemis-programban;5,0;27000

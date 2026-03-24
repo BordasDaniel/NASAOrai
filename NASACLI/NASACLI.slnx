@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../NASACLI.Tests/NASACLI.Tests.csproj" />
+  <Project Path="../NASAWPF/NASAWPF.csproj" />
+  <Project Path="NASACLI.csproj" />
+</Solution>
