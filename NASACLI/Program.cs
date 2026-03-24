@@ -2,9 +2,9 @@
 {
     public class Program
     {
-        static List<Kuldetes> kuldetesek = [];
+        public static List<Kuldetes> kuldetesek = [];
 
-        static void Beolvas()
+        public static void Beolvas()
         {
             using (var sr = new StreamReader("NASAmissions.txt"))
             {

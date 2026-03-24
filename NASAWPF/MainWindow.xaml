@@ -9,15 +9,43 @@
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="*">
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="*"/>
-                    <RowDefinition Height="*"/>
-                </Grid.RowDefinitions>
-            </ColumnDefinition>
+            <ColumnDefinition Width="7*" />
         </Grid.ColumnDefinitions>
 
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="7*"/>
+        </Grid.RowDefinitions>
+
+        <Image Source="/rocket.png"  Grid.RowSpan="2"/>
+        <ProgressBar x:Name="pgbTeher" Grid.Row="1" VerticalAlignment="Top" Margin="-47,203,653,0" Height="30" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Label x:Name="lblKiv" Content="TESZT" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" Height="34" Margin="66,244,0,0" Width="50" Grid.Row="1" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2" >
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+
+        <StackPanel Grid.Column="1" VerticalAlignment="Bottom" HorizontalAlignment="Left" Orientation="Horizontal">
+            <Button x:Name="btnMinden" Content="Minden adat"  Margin="10" Padding="5, 2" Click="btnMinden_Click" />
+            <Button x:Name="btnStat" Content="Statisztika" Margin="10" Padding="5, 2" Click="btnStat_Click" />
+        </StackPanel>
+
+        <DataGrid x:Name="dgKuldetesek" Grid.Row="1" Grid.Column="1" SelectionChanged="dgKuldetesek_SelectionChanged"/>
+
 
     </Grid>
 </Window>
