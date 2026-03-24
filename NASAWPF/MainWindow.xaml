@@ -17,8 +17,8 @@
             <RowDefinition Height="7*"/>
         </Grid.RowDefinitions>
 
-        <Image Source="/rocket.png"  Grid.RowSpan="2"/>
-        <ProgressBar x:Name="pgbTeher" Grid.Row="1" VerticalAlignment="Top" Margin="-47,203,653,0" Height="30" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2">
+        <Image Source="rocket.png"  Grid.RowSpan="2"/>
+        <ProgressBar x:Name="pgbTeher" Grid.Row="1" VerticalAlignment="Top" Margin="-47,207,653,0" Height="30" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2">
             <ProgressBar.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
